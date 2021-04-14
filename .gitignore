@@ -1,0 +1,31 @@
+/.alpackages
+/.snapshots
+/.vscode
+/app.json
+/Default publisher_ETNET_John_1.0.0.0.app
+/_Billing Schedule Line_.Table.al
+/_Billing Schedule_.Page.al
+/_Billing Type_.Enum.al
+/_Charge Disc Type_.Enum.al
+/_Charge Frequency_.Enum.al
+/_Charge Type_.Enum.al
+/_Combine Invoice Code_.Table.al
+/_Contract Line (Transfer)_.Page.al
+/_Contract Line (Transfer)_.Table.al
+/_Contract Payment Schedule Card_.Page.al
+/_Contract Payment Schedule Line_.Page.al
+/_Contract Payment Schedule Line_.Table.al
+/_Contract Payment Schedule List_.Page.al
+/_Contract Payment Schedule_.Table.al
+/_Customer Client Type_.Enum.al
+/_Customer Extension_.PageExtension.al
+/_Customer Extension_.TableExtension.al
+/_Customer List Extenstion_.PageExtension.al
+/_Sales Docuemnt Type Extension_.EnumExtension.al
+/_Sales Header Extension_.TableExtension.al
+/_Sales Line Extension_.TableExtension.al
+/_Sell-to Contact Type_.Enum.al
+/_Service Hardware List_.Page.al
+/_Service Hardware List_.Table.al
+/_Service Mgt. Setup_.PageExtension.al
+/_Service Mgt. Setup_.TableExtension.al
